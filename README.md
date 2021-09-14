@@ -1,4 +1,4 @@
-# Hi 👋, Call me Amaury GUICHARD or Reven
+# Hi 👋, Call me Amaury or Reven
 
 <div style="dysplay:flex">
 <img src="https://img.shields.io/github/followers/RevenMyst?style=for-the-badge" alt="RevenMyst" />
